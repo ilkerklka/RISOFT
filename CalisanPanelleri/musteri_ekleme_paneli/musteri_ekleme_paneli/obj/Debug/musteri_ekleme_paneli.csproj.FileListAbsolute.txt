@@ -1,0 +1,11 @@
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\bin\Debug\musteri_ekleme_paneli.exe.config
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\bin\Debug\musteri_ekleme_paneli.exe
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\bin\Debug\musteri_ekleme_paneli.pdb
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.musteri_ekleme.resources
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.Properties.Resources.resources
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.exe
+C:\Users\ilker\Desktop\Projelerim\RISOFT\CalisanPanelleri\musteri_ekleme_paneli\musteri_ekleme_paneli\obj\Debug\musteri_ekleme_paneli.pdb
